@@ -1,0 +1,16 @@
+/* head */
+
+
+/* main */
+.welcome{
+    border-top: 0.2rem solid #960000;
+    border-bottom: 0.9rem solid #F6F6F8;
+    background-color: #003500;
+}
+.guidelines{
+    border-bottom: 0.1rem solid #535355;
+}
+.feet{
+    border-top: 0.2rem solid #960000;
+    background-color: #003500;
+}
